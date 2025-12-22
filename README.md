@@ -5,6 +5,23 @@ This repository contains maps with many unique templates.
 You can copy and paste them into your levels.
 
 `Displacements.map` contains Hammer (Source Engine) inspired displacements.
+`Stairs.map` contains various repeatable staircases.
+
+## Measurements
+
+| Length (m) | Quantity |
+| :--- | :--- |
+| 4m | 256 units |
+| 2m | 128 units |
+| 1m | 64 units |
+| 0.5m | 32 units |
+| 0.25m | 16 units |
+| 0.125m | 8 units |
+| 0.0625m | 4 units |
+| 0.03125m | 2 units |
+| 0.015625m | 1 unit |
+| 0.0078125m | 0.5 units |
+| 0.00390625m | 0.25 units |
 
 ## Support:
 
