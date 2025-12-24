@@ -5,6 +5,7 @@ This repository contains maps with many unique templates.
 You can copy and paste them into your levels.
 
 `Displacements.map` contains Hammer (Source Engine) inspired displacements.
+
 `Stairs.map` contains various repeatable staircases.
 
 ## Measurements
